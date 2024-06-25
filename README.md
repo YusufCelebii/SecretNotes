@@ -19,7 +19,7 @@ Ensure you have Python installed on your machine. This project was developed wit
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/secrets-manager.git
+    git clone https://github.com/YusufCelebii/SecretNotes
     cd secrets-manager
     ```
 
